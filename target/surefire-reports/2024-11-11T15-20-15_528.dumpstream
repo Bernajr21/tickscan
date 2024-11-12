@@ -1,0 +1,5 @@
+# Created at 2024-11-11T15:20:15.746
+Boot Manifest-JAR contains absolute paths in classpath 'E:\LEOPEX\EMPRESAS\luiscarlos_bigotes\generationQR\qr\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
